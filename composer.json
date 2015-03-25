@@ -1,0 +1,21 @@
+{
+  "name": "dupuchba/sculpin-show-layout-bundle",
+  "description": "Sculpin Show Layout Bundle",
+  "homepage": "https://sculpin.io",
+  "keywords": ["blogging", "blog", "static", "site"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Baptiste Dupuch",
+      "email": "baptiste.dupuch@gmail.om",
+    }
+  ],
+  "require": {
+    "php": ">=5.3.2"
+  },
+  "autoload": {
+    "psr-0": { "Dupuchba\\Sculpin\\Bundle\\ShowLayoutBundle": "" }
+  },
+  "target-dir": "Dupuchba/Sculpin/Bundle/ShowLayoutBundle",
+  "minimum-stability": "beta"
+}
